@@ -85,60 +85,6 @@ GitHub
 Nodemon
 ESLint
 
-
-🏗️ Project Architecture
-
-Prep-Mate is divided into two main applications:
-
-Prep-Mate/
-│
-├── Backend/
-│   ├── src/
-│   │   ├── config/
-│   │   │   └── db.js
-│   │   │
-│   │   ├── controllers/
-│   │   │   ├── auth.controller.js
-│   │   │   └── interview.controller.js
-│   │   │
-│   │   ├── middlewares/
-│   │   │   ├── auth.middleware.js
-│   │   │   └── file.middleware.js
-│   │   │
-│   │   ├── models/
-│   │   │   ├── blacklist.model.js
-│   │   │   ├── interviewReport.model.js
-│   │   │   └── user.model.js
-│   │   │
-│   │   ├── routes/
-│   │   │   ├── auth.routes.js
-│   │   │   └── interview.routes.js
-│   │   │
-│   │   └── services/
-│   │       └── ai.service.js
-│   │
-│   ├── server.js
-│   ├── package.json
-│   └── .env
-│
-├── Frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── featues/
-│   │   │   ├── auth/
-│   │   │   ├── interview/
-│   │   │   └── landing/
-│   │   ├── App.jsx
-│   │   ├── app.routes.jsx
-│   │   ├── main.jsx
-│   │   └── style.scss
-│   │
-│   ├── public/
-│   ├── package.json
-│   └── .env
-│
-└── README.md
-
 🔄 How Prep-Mate Works
 Candidate
    │
