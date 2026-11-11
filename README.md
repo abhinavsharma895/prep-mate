@@ -88,13 +88,13 @@ ESLint
 🔄 How Prep-Mate Works
 
 Candidate
-   │
    ├── Resume PDF
-   
+   │
    ├── Self Description
-   
+   │   
    └── Job Description
           │
+          
           ▼
      Prep-Mate
           │
