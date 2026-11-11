@@ -86,10 +86,13 @@ Nodemon
 ESLint
 
 🔄 How Prep-Mate Works
+
 Candidate
    │
    ├── Resume PDF
+   
    ├── Self Description
+   
    └── Job Description
           │
           ▼
@@ -101,14 +104,20 @@ Candidate
           ▼
       Google Gemini AI
           │
+          
           ├── Match Score
+          
           ├── Skill Gaps
+          
           ├── Technical Questions
+          
           ├── Behavioral Questions
+          
           └── Preparation Roadmap
           │
           ▼
     Interview Report
           │
           ├── View Report
+          
           └── Generate Resume PDF
