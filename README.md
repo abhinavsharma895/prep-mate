@@ -8,6 +8,7 @@ It can also generate an ATS-friendly resume PDF tailored to the target job.
 
 
 ✨ Features
+
 🔐 User Authentication
 User registration
 User login and logout
